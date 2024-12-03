@@ -2,6 +2,11 @@
 
 This React application fetches project data from Contentful CMS and displays them in a responsive gallery format. The app uses a custom hook for fetching data and features a dynamic project list along with a hero section.
 
+## Live Demo
+
+You can access the live app here: [Unsplash Image Gallery App](https://contentfu1-cms-app.netlify.app/)
+
+
 ## Features
 
 - **Dynamic Project Fetching**: Fetches project details (title, image, and URL) from Contentful CMS.
