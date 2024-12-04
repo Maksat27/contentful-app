@@ -4,7 +4,7 @@ This React application fetches project data from Contentful CMS and displays the
 
 ## Live Demo
 
-You can access the live app here: [Unsplash Image Gallery App](https://contentfu1-cms-app.netlify.app/)
+You can access the live app here: [Contentful CMS Projects App](https://contentfu1-cms-app.netlify.app/)
 
 
 ## Features
